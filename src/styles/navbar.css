@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:30px;
+    background-color: #15254C;
+    color: #f0f0f0;
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+    
+}
+
+.link{
+    color: #f0f0f0;  
+    font-size: 1.3rem;
+    transition: 0.3s;
+}
+
+.link:hover{
+    text-decoration: underline;
+    color: aqua;
+}
