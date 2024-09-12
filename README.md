@@ -2,7 +2,8 @@
 
 Este projeto é um exemplo de uso do **React** com **Axios** para fazer requisições HTTP a uma API REST.
 <br> <br>
-![image](https://github.com/user-attachments/assets/efffdd47-e049-4a9e-a14a-68999899ef80)
+![image](https://github.com/user-attachments/assets/07659ff5-e786-4f44-9d9d-1e0b64391bca)
+
 
 ## Funcionalidades
 
